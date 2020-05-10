@@ -3,6 +3,8 @@
 
 Re-annotation of cough events present in a subset of the AMI corpus.
 
+
+
 Each AMI meeting is identifiable with a unique ID and is publicly available for download online (http://groups.inf.ed.ac.uk/ami/corpus/). The recordings with the following AMI meeting IDs compose the five files of our subset: 
 
 {File 1}: EN2001a, EN2001e, EN2006a, EN2006b.
@@ -15,7 +17,5 @@ Each AMI meeting is identifiable with a unique ID and is publicly available for 
 
 {File 5}: TS3006c.
 
-
 coughs_annotation.zip contains a .mat file for each file of the subset. The start and end times of each cough event are stored in the variables: startTimes and endTimes.
 
-coughs_wav_files.zip contains  2 .wav files per subset's file : verison 1 is the mix headset capture and version 2 is the microphone array-01 of the omni-directional microphone array.
